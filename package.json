@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-app-v2",
   "version": "0.1.0",
+  "homepage": "https://refqiherdiansyah.github.io/e-commerce-app-v2",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
@@ -24,8 +25,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -48,5 +52,8 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
