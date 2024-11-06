@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/e-commerce-app-v2/static/css/main.78604ece.css",
-    "main.js": "/e-commerce-app-v2/static/js/main.2663a8d8.js",
-    "static/media/Apple8.png": "/e-commerce-app-v2/static/media/Apple8.ec9db5506cc9093de1af.png",
-    "static/media/Apple2.png": "/e-commerce-app-v2/static/media/Apple2.ffde29822b1340c8727b.png",
-    "static/media/blog-1.jpg": "/e-commerce-app-v2/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
-    "index.html": "/e-commerce-app-v2/index.html",
-    "static/media/view.svg": "/e-commerce-app-v2/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
-    "static/media/wish.svg": "/e-commerce-app-v2/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
-    "static/media/prodcompare.svg": "/e-commerce-app-v2/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
-    "static/media/add-cart.svg": "/e-commerce-app-v2/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
-    "main.78604ece.css.map": "/e-commerce-app-v2/static/css/main.78604ece.css.map",
-    "main.2663a8d8.js.map": "/e-commerce-app-v2/static/js/main.2663a8d8.js.map"
+    "main.css": "/refqiherdiansyah/e-commerce-app-v2/static/css/main.78604ece.css",
+    "main.js": "/refqiherdiansyah/e-commerce-app-v2/static/js/main.f72d5a86.js",
+    "static/media/Apple8.png": "/refqiherdiansyah/e-commerce-app-v2/static/media/Apple8.ec9db5506cc9093de1af.png",
+    "static/media/Apple2.png": "/refqiherdiansyah/e-commerce-app-v2/static/media/Apple2.ffde29822b1340c8727b.png",
+    "static/media/blog-1.jpg": "/refqiherdiansyah/e-commerce-app-v2/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
+    "index.html": "/refqiherdiansyah/e-commerce-app-v2/index.html",
+    "static/media/view.svg": "/refqiherdiansyah/e-commerce-app-v2/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
+    "static/media/wish.svg": "/refqiherdiansyah/e-commerce-app-v2/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
+    "static/media/prodcompare.svg": "/refqiherdiansyah/e-commerce-app-v2/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
+    "static/media/add-cart.svg": "/refqiherdiansyah/e-commerce-app-v2/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
+    "main.78604ece.css.map": "/refqiherdiansyah/e-commerce-app-v2/static/css/main.78604ece.css.map",
+    "main.f72d5a86.js.map": "/refqiherdiansyah/e-commerce-app-v2/static/js/main.f72d5a86.js.map"
   },
   "entrypoints": [
     "static/css/main.78604ece.css",
-    "static/js/main.2663a8d8.js"
+    "static/js/main.f72d5a86.js"
   ]
 }
